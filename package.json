@@ -1,0 +1,18 @@
+{
+    "name": "p-sink",
+    "version": "1.0.0",
+    "description": "Limited-Concurrency Promise Runner",
+    "author": {
+        "name": "Joshua Jensch",
+        "email": "jenschjoshua@gmail.com"
+    },
+    "license": "MIT",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "scripts": {
+        "prepare": "tsc"
+    },
+    "devDependencies": {
+        "typescript": "^3.9.3"
+    }
+}
