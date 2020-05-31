@@ -6,6 +6,12 @@
         "name": "Joshua Jensch",
         "email": "jenschjoshua@gmail.com"
     },
+    "readme": "README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/patroclos/p-sink.git"
+    },
+    "homepage": "https://github.com/patroclos/p-sink",
     "license": "MIT",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
