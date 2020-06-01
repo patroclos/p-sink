@@ -1,6 +1,6 @@
 {
     "name": "p-sink",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Limited-Concurrency Promise Runner",
     "author": {
         "name": "Joshua Jensch",
