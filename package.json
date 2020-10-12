@@ -1,6 +1,6 @@
 {
     "name": "p-sink",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Limited-Concurrency Promise Runner",
     "author": {
         "name": "Joshua Jensch",
@@ -11,6 +11,7 @@
         "type": "git",
         "url": "https://github.com/patroclos/p-sink.git"
     },
+    "type": "module",
     "homepage": "https://github.com/patroclos/p-sink",
     "license": "MIT",
     "main": "dist/index.js",
